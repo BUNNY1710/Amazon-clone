@@ -1,0 +1,14 @@
+@media screen and (max-width:1000px) {
+    header{
+        width: 100vw;
+        flex-direction: column;
+        height: 100vh;
+        position: static;
+    }
+
+    .main1{
+        position:static;
+    }
+
+    
+}
